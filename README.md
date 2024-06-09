@@ -40,14 +40,14 @@ Answer:
 
 Waterfall Model:
 
-Linear and Sequential: Each phase must be completed before the next begins.
-Predictable: Clear milestones and documentation.
-Preferred For: Projects with well-defined requirements and low likelihood of changes (e.g., construction, manufacturing).
+i.Linear and Sequential: Each phase must be completed before the next begins.
+ii.Predictable: Clear milestones and documentation.
+iii. Preferred For: Projects with well-defined requirements and low likelihood of changes (e.g., construction, manufacturing).
 
 Agile Model:
 
-Iterative and Incremental: Development occurs in cycles or sprints.
-Flexible: Adaptable to changing requirements.
+i. Iterative and Incremental: Development occurs in cycles or sprints.
+ii Flexible: Adaptable to changing requirements.
 Preferred For: Projects requiring frequent changes and client feedback (e.g., software startups, dynamic environments).
 
 
