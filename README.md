@@ -114,8 +114,11 @@ Discuss the role of a software project manager. What are some key responsibiliti
 A software project manager oversees the planning, execution, and closing of software projects. Responsibilities include:
 
 i.Planning and Scheduling: Defining project scope, timeline, and resources.
+
 ii.Risk Management: Identifying and mitigating potential issues.
+
 iii.Team Coordination: Facilitating communication and collaboration among team members.
+
 Challenges include handling scope changes, maintaining schedules, and managing stakeholder expectations.
 
 
