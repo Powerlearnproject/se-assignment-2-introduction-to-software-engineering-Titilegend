@@ -129,9 +129,13 @@ Define software maintenance and explain the different types of maintenance activ
 
 Software maintenance involves modifying and updating software post-deployment. Types include:
 a.Corrective: Fixing defects.
+
 b.Adaptive: Adjusting to new environments.
+
 c.Perfective: Enhancing functionality.
+
 d.Preventive: Improving future maintainability.
+
 Maintenance is essential to ensure the software continues to meet user needs and operates smoothly in changing environments.
 
 
