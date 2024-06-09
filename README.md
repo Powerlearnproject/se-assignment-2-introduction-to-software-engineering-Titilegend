@@ -63,9 +63,13 @@ Requirements Engineering is a systematic and strict approach to the definition, 
 Processes are: 
 
 a.Feasibility Study: The objective behind the feasibility study is to create the reasons for developing the software that is acceptable to users, flexible to change and conformable to established standards.
+
 b.Requirement Analysis: This is also known as the gathering of requirements. Here, requirements are identified with the help of customers and existing systems processes, if available.
+
 c. software requirement specification: This is produced by a software analyst based on requirements gathered from multiple sources and customer requirements expressed in plain language. Writing requirements in a technical language that the development team can understand and find useful is the analyst's responsibility.
-d.Software Requirement validation: After requirement specifications developed, the requirements discussed in this document are validated. The user might demand illegal, impossible solution or experts may misinterpret the needs. 
+
+d.Software Requirement validation: After requirement specifications developed, the requirements discussed in this document are validated. The user might demand illegal, impossible solution or experts may misinterpret the needs.
+
 e.Software Requirement Management: Requirement management is the process of managing changing requirements during the requirements engineering process and system development.
 
 
